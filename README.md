@@ -104,14 +104,7 @@ else:
 ## Sample Input and Output
 ![solution](output1.png)
 ![solution](output2.png)
-![solution](output3.png)
-![solution](output4.png)
-![solution](output5.png)
-![solution](output6.png)
-
-
-
-
+![solution](output9.png)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
